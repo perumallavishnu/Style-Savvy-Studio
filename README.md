@@ -1,5 +1,7 @@
 StyleSavvy Studio
+
 Output:
+
 ![image](https://github.com/perumallavishnu/Style-Savvy-Studio/assets/109837710/1e30914b-8f21-4fd2-9e62-28346b40ec1c)
 ![image](https://github.com/perumallavishnu/Style-Savvy-Studio/assets/109837710/514e0d8c-d615-4a36-aa15-af5802f8f3dd)
 ![image](https://github.com/perumallavishnu/Style-Savvy-Studio/assets/109837710/58624e8e-4d8a-457f-b455-d24d7769c354)
