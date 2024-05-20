@@ -1,5 +1,7 @@
 StyleSavvy Studio
 
+Responsive Web Design
+
 Output:
 
 ![image](https://github.com/perumallavishnu/Style-Savvy-Studio/assets/109837710/1e30914b-8f21-4fd2-9e62-28346b40ec1c)
